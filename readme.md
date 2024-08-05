@@ -5,8 +5,6 @@
 
 本仓库将用于定时自动化登录serv00的SSH连接执行指令并推送通知，可以实现定期登录保号的作用
 
-tg交流群：[https://t.me/zzzjsjl](https://t.me/zzzjsjl)
-
 **希望大家点个Star🌟🌟🌟支持下**
 
 ### 准备工作
@@ -14,7 +12,6 @@ tg交流群：[https://t.me/zzzjsjl](https://t.me/zzzjsjl)
 - 一个GitHub账号。
 - Fork本仓库
 - 准备好serv00账号
-- 获取您的 Telegram 用户或群组的 Chat ID。
 
 - 在您的 GitHub 仓库中设置以下 Secrets：
 
